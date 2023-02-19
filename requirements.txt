@@ -1,6 +1,6 @@
-streamlit 
+streamlit
 pytesseract
 pdfplumber
-PIL  Image
+Pillow (PIL)
 docx2txt
-speech_recognition
+SpeechRecognition (speech_recognition)
