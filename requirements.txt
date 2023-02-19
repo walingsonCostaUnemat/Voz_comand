@@ -1,6 +1,6 @@
-import streamlit as st
-import pytesseract
-import pdfplumber
-from PIL import Image
-import docx2txt
-import speech_recognition as sr
+streamlit 
+pytesseract
+pdfplumber
+PIL  Image
+docx2txt
+speech_recognition
