@@ -1,6 +1,0 @@
-streamlit
-pytesseract
-pdfplumber
-Pillow (PIL)
-docx2txt
-SpeechRecognition (speech_recognition)
